@@ -1,9 +1,7 @@
 # DFSDsc
 
 [![Build Status](https://dev.azure.com/dsccommunity/DFSDsc/_apis/build/status/dsccommunity.DFSDsc?branchName=main)](https://dev.azure.com/dsccommunity/DFSDsc/_build/latest?definitionId=35&branchName=main)
-![Code Coverage](https://img.shields.io/azure-devops/coverage/dsccommunity/DFSDsc/35/main)
-[![Azure DevOps tests](https://img.shields.io/azure-devops/tests/dsccommunity/DFSDsc/35/main)](https://dsccommunity.visualstudio.com/DFSDsc/_test/analytics?definitionId=35&contextType=build)
-[![PowerShell Gallery (with prereleases)](https://img.shields.io/powershellgallery/vpre/DFSDsc?label=DFSDsc%20Preview)](https://www.powershellgallery.com/packages/DFSDsc/)
+![Csfgdsrfgdfgdfgdfgdfgdgfd
 [![PowerShell Gallery](https://img.shields.io/powershellgallery/v/DFSDsc?label=DFSDsc)](https://www.powershellgallery.com/packages/DFSDsc/)
 [![codecov](https://codecov.io/gh/dsccommunity/DFSDsc/branch/main/graph/badge.svg)](https://codecov.io/gh/dsccommunity/DFSDsc)
 
